@@ -3,7 +3,7 @@
 **Strategy:** GARP — Quality European equities 
 with selective US exposure
 
-**Period:** May 2026 — October 2026
+**Period:** June 2026 — Ongoing
 
 **Benchmark:** Euro Stoxx 50
 
@@ -18,7 +18,7 @@ with selective US exposure
 ## Live Track Record
 | Month | Return | Benchmark | Alpha | Report |
 |-------|--------|-----------|-------|--------|
-| May 2026 | TBD | TBD | TBD | TBD |
+| June 2026 | TBD | TBD | TBD | TBD |
 
 ## Status
 Month 1 — Portfolio construction in progress
